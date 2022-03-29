@@ -16,7 +16,7 @@
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search%20Java">Linear Search Java</a></li>
      </ul>
   </ul>
- <ul class="ulr">
+  <ul class="ulr">
     <h3>Binary Search</h3>
     <ul>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Binary%20Search%20Square%20root%20of%20a%20number%20Python">Find Square root of Number Python</a></li>
@@ -24,6 +24,21 @@
      <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Binary%20Search%20Square%20root%20of%20a%20number%20Java">Find Square root of Number Java</a></li>
      </ul>
   </ul>
+ 
+ 
+ 
+  <h3>Sorting</h3>
+  <ul class="ulr">
+    <h3>Linear Search</h3>
+    <ul>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Bubble%20Sort%20C%2B%2B">Bubble Sort C++</a></li>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Bubble%20Sort%20Java">Bubble Sort Java</a></li>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Bubble%20Sort%20Python">Bubble Sort Python</a></li>
+     </ul>
+  </ul>
+ 
+ 
+
   
   
   
