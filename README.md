@@ -29,7 +29,7 @@
  
   <h3>Sorting</h3>
   <ul class="ulr">
-    <h3>Linear Search</h3>
+    <h3>Bubble Sort</h3>
     <ul>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Bubble%20Sort%20C%2B%2B">Bubble Sort C++</a></li>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Bubble%20Sort%20Java">Bubble Sort Java</a></li>
