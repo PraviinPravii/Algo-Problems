@@ -53,7 +53,15 @@
      </ul>
   </ul>
   
-  
+  <ul>
+  <h3>Bit Manupilation</h3>
+  <ul class="ulr">
+    <h3>Different Bits Sum Pairwise</h3>
+    <ul>
+    <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/different_bit_sum_C%2B%2B.cpp">Different Bits Sum Pairwise C++</a></li>
+    <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Linear%20Search%20Python">Different Bits Sum Pairwise Python</a></li>
+     </ul>
+  </ul>
   
   
  
