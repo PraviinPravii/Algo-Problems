@@ -22,7 +22,7 @@
     <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/Binary%20Search%20Square%20root%20of%20a%20number%20Python.py">Find Square root of Number Python</a></li>
      <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/Binary%20Search%20Square%20root%20of%20a%20number%20C%2B%2B.cpp">Find Square root of Number C++</a></li>
      <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/Binary%20Search%20Square%20root%20of%20a%20number%20Java.java">Find Square root of Number Java</a></li>
-     <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/BS_Frequency_of_element.c">Finding The Frequency of an Element</a></li>
+     <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/BS_Frequency_of_element.c">Finding The Frequency of an Element in C</a></li>
      </ul>
      
   </ul>
