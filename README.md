@@ -38,6 +38,15 @@
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Bubble%20Sort%20Python">Bubble Sort Python</a></li>
      </ul>
   </ul>
+  
+   <h3>Bit Manipulation</h3>
+  <ul class="ulr">
+    <h3>Different Bits Sum Pairwise</h3>
+    <ul>
+    <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/different_bit_sum_C%2B%2B.cpp">Different Bits Sum Pairwise C++</a></li>
+    <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/Defferent_bits_sum.py">Different Bits Sum Pairwise Python</a></li>
+     </ul>
+  </ul>
  
  
 
@@ -46,7 +55,19 @@
   
   
 
-  <ul style="list-style-type:disc">
+ 
+  
+
+  
+  
+ 
+
+
+  
+  
+
+ <h3>Problems</h3>
+ <ul style="ulr">
     <h3>Pair count</h3>
     <ul>
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Java">Pair Count Java</a></li>
@@ -54,25 +75,6 @@
     <li><a href="https://github.com/Hacker-Pravii/Backend-Development/blob/main/Pair%20count%20Python">Pair Count Python</a></li>
      </ul>
   </ul>
-  
-  <ul>
-  <h3>Bit Manupilation</h3>
-  <ul class="list-style-type:disc">
-    <h3>Different Bits Sum Pairwise</h3>
-    <ul>
-    <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/different_bit_sum_C%2B%2B.cpp">Different Bits Sum Pairwise C++</a></li>
-    <li><a href="https://github.com/PraviinPravii/Backend-Development/blob/main/Defferent_bits_sum.py">Different Bits Sum Pairwise Python</a></li>
-     </ul>
-  </ul>
-  
-  
- 
-
-
-  
-  
-
-</ul>
   
 
 </body>
