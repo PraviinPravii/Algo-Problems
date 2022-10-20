@@ -52,7 +52,7 @@
      </ul>
     <h3>Single Number I</h3>
     <ul>
-    <li><a href="https://github.com/PraviinPravii/Algorithems/blob/main/Single%20number.c">Single Number 2 C Lnaguage</a></li>
+    <li><a href="https://github.com/PraviinPravii/Algorithems/blob/main/Single%20number.c">Single Number 1 C Lnaguage</a></li>
      </ul>
      
      
