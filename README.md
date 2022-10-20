@@ -49,9 +49,8 @@
    <h3>Single Number II</h3>
     <ul>
     <li><a href="https://github.com/PraviinPravii/Algorithems/blob/main/Single%20Number%20%7C%7C%20in%20C%20Language.c">Single Number 2 C Lnaguage</a></li>
-    
      </ul>
-  </ul>
+ 
  
  
 
